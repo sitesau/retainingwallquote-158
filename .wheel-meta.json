@@ -1,0 +1,22 @@
+{
+  "wheel_id": 805,
+  "structure": "umbrella",
+  "slug": "retainingwallquote-158",
+  "project": "retaining-wall-quotes-signs-you-need-e1150ca6720a5bf13fabed1ddc",
+  "parent_t1_ref": "retainingwallquote-012",
+  "node_role": "buffer",
+  "money_target": "retainingwallquote.com.au",
+  "primary_kw": "retaining wall quotes signs you need",
+  "intended_url": "https://sites-e470-2.web.app/retaining-wall-quotes-signs-you-need-e1150ca6720a5bf13fabed1ddc/",
+  "tier": "T2",
+  "writeback_nonce": "6c0cd35eeff63b06",
+  "links": [
+    {
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/retaining-wall-quotes-retainingwallquote-012/",
+      "anchor": "the retaining wall quotes overview",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
